@@ -27,21 +27,21 @@
 		"oAP": "/design/padding.sketch",
 		"oF": 0
 		},
-	"/img/conflict/sad box.svg": {
+	"/img/conflict/sad-box.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/conflict/sad box.svg",
+		"oAP": "/img/conflict/sad-box.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/img/disclaimer/Box w Helmet.svg": {
+	"/img/disclaimer/Box-w-Helmet.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/disclaimer/Box w Helmet.svg",
+		"oAP": "/img/disclaimer/Box-w-Helmet.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -69,23 +69,23 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/property/box hero.png": {
+	"/img/property/box-hero.png": {
 		"ft": 32768,
 		"iS": 3846,
 		"oA": 0,
-		"oAP": "/img/property/box hero.png",
+		"oAP": "/img/property/box-hero.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/value/value photo.jpg": {
+	"/img/value/value-photo.jpg": {
 		"ft": 16384,
 		"iS": 16391,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/value/value photo.jpg",
+		"oAP": "/img/value/value-photo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
