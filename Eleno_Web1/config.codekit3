@@ -60,7 +60,7 @@
 		},
 	"/img/header/logo.png": {
 		"ft": 32768,
-		"iS": 702,
+		"iS": 380,
 		"oA": 0,
 		"oAP": "/img/header/logo.png",
 		"oF": 0,
@@ -71,7 +71,7 @@
 		},
 	"/img/property/box hero.png": {
 		"ft": 32768,
-		"iS": 9832,
+		"iS": 3846,
 		"oA": 0,
 		"oAP": "/img/property/box hero.png",
 		"oF": 0,
@@ -82,7 +82,7 @@
 		},
 	"/img/value/value photo.jpg": {
 		"ft": 16384,
-		"iS": 57652,
+		"iS": 16391,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/value/value photo.jpg",
@@ -280,6 +280,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/scss/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/scss/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/scss/styles.scss": {
 		"aP": 0,
