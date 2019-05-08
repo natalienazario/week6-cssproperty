@@ -11,6 +11,16 @@ html {
 /* ================================
         Base css
 ================================ */
+.content-grid {
+  display: grid;
+  grid-template: 10px auto 10px;
+  grid-template-areas: ". grid-content ."; }
+  .content-grid .content-grid-item {
+    grid-area: grid-content; }
+
+.section-content {
+  padding: 56px 0 50px; }
+
 /* ================================
         Normalize css
 ================================ */
