@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+
+  <header>
+    <img src="img/header/logo.png" alt="logo">
+    <i class="fas fa-bars"></i>
+  </header>
+
+  <section>
+    <h1>HELLO!</h1>
+    <img src="img/property/box hero.png" alt="hero">
+    <div>
+      <h1>The padding Property</h1>
+      <p>Padding is the space between the border of a box and any content contained within it.</p>
+      <p>(Adding padding can increase the readability of its contents.)</p>
+    </div>
+  </section>
+
+  <section>
+    <div>
+      <h1>Value</h1>
+      <p>The value of this property is most often specified in pixels (although it is also possible to use percentages or ems). If a percentage is used, the padding is a percentage of the browser window (or of the containing box if it is inside another box).</p>
+      <p>You can specify different values for each side of a box using:<span>padding-top padding-right padding-bottom padding-left</span></p>
+      <p>Or you can use a shorthand (where the values are in clockwise order: top, right, bottom, left):<span>padding: 10px 5px 3px 1px;</span></p>
+      <img src="img/value/value photo.jpg" alt="value">
+    </div>
+  </section>
+
+  <section>
+    <div>
+      <h1>Disclaimer</h1>
+      <article>
+        <p>The value of the padding property is not inherited by child elements in the same way that the color value of the font-family property is; so you need to specify the padding for every element that needs to use it!</p>
+      </article>
+      <img src="img/disclaimer/Box w Helmet.svg" alt="helmet">
+    </div>
+  </section>
+
+  <section>
+    <div>
+      <h1>Fixing Width Conflict</h1>
+      <p>There's one last thing you need to know about CSS padding, and it’s the relationship padding has with CSS width property.
+CSS width describes how wide the content area (text, image, etc.) of an element is.
+The problem occurs when you determine width and padding separately. In such case, CSS adds padding value to the total width instead of considering padding a part of an element.</p>
+      <img src="img/conflict/sad box.svg" alt="sadbox">
+      <p>You can easily fix this issue with the box-sizing property. It defines how the width and height of an element are calculated: should they include padding and borders, or not. By using this property, you instruct the browser to decrease the possible content space instead of merely adding the padding to the total value.</p>
+    </div>
+  </section>
+
+  <footer>
+    <ul>
+      <li>Home</li>
+      <li>Value</li>
+      <li>Disclaimer</li>
+      <li>Conflict</li>
+    </ul>
+  </footer>
+
+</body>
+</html>
