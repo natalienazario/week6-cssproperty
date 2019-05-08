@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="200px" viewBox="0 0 300 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>sad box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 200 299.839056 200 299.839056 0.196129032 0 0.196129032"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-10.000000, -3060.000000)">
+            <g id="conflict" transform="translate(0.000000, 2442.000000)">
+                <g id="sad-box" transform="translate(10.000000, 618.000000)">
+                    <g id="Group-11">
+                        <path d="M130.460472,51.9740645 L51.373133,44.1269677 L11.4390129,61.3908387 C11.4390129,61.3908387 8.38815451,46.3405161 0.000386266094,44.1269677 L3.04995708,61.3908387 C3.04995708,61.3908387 -1.9895279,63.9869677 2.77055794,69.7979355 L53.1673391,56.9624516 L130.460472,73.6450323 L130.460472,51.9740645 Z" id="Fill-1" fill="#FDC07D"></path>
+                        <path d="M169.378777,51.9740645 L248.465472,44.1269677 L288.40088,61.3908387 C288.40088,61.3908387 291.450451,46.3405161 299.838863,44.1269677 L296.788648,61.3908387 C296.788648,61.3908387 301.828133,63.9869677 297.068691,69.7979355 L246.67191,56.9624516 L169.378777,73.6450323 L169.378777,51.9740645 Z" id="Fill-3" fill="#FDC07D"></path>
+                        <path d="M184.600558,191.346516 L204.130172,194.533613 C197.607425,200.72329 181.442833,199.971032 181.442833,199.971032 L169.378455,130.146516 L186.982532,136.956194 L184.600558,191.346516 Z" id="Fill-5" fill="#FDC07D"></path>
+                        <path d="M102.451803,191.346516 L82.9221888,194.533613 C89.4449356,200.72329 105.609528,199.971032 105.609528,199.971032 L117.673906,130.146516 L100.069185,136.956194 L102.451803,191.346516 Z" id="Fill-7" fill="#FDC07D"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-10"></g>
+                        <polygon id="Fill-9" fill="#C89E6C" mask="url(#mask-2)" points="76.1665236 139.4 215.072318 139.4 215.072318 0.195483871 76.1665236 0.195483871"></polygon>
+                    </g>
+                    <text id=":(" font-family="Cocogoose" font-size="94.18" font-weight="normal" fill="#FFFEF9">
+                        <tspan x="110" y="102">:(</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
