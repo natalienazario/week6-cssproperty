@@ -1,3 +1,19 @@
 /* ================================
         Disclaimer css
 ================================ */
+#disclaimer{
+  background-color: $magenta;
+  text-align: center;
+  h1{
+    color: $white;
+  }
+  article{
+    background-color: $lightpink;
+    padding: 10px;
+    line-height: rem-calc(26);
+    letter-spacing: rem-calc(1.33);
+  }
+  img{
+    margin-top: 43px;
+  }
+}

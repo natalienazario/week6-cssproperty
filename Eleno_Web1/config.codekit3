@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/css/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -69,6 +79,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/property/box-hero.jpg": {
+		"ft": 16384,
+		"iS": 8841,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/property/box-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/property/box-hero.png": {
 		"ft": 32768,
 		"iS": 3846,
@@ -79,6 +100,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/img/property/box-hero.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/property/box-hero.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/img/value/value-photo.jpg": {
 		"ft": 16384,
@@ -255,6 +286,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/sections/_hero.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_hero.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/sections/_property.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -289,8 +333,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/scss/styles.css",
-		"oF": 0,
+		"oAP": "/css/styles.css",
+		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		}

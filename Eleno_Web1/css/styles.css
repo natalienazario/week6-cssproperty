@@ -11,6 +11,16 @@ html {
 /* ================================
         Base css
 ================================ */
+.content-grid {
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". grid-content ."; }
+  .content-grid .content-grid-item {
+    grid-area: grid-content; }
+
+.section-content {
+  padding: 50px 0 27px; }
+
 /* ================================
         Normalize css
 ================================ */
@@ -322,6 +332,21 @@ template {
 /* ================================
         Typography css
 ================================ */
+body {
+  font-family: 'Open Sans', sans-serif; }
+  body h1, body p {
+    text-align: center;
+    color: #4A4A4A; }
+  body h1 {
+    font-weight: 700;
+    font-size: 1.9375rem; }
+  body p {
+    line-height: 1.6875rem;
+    font-size: 1.25rem; }
+  body ul li {
+    list-style: none;
+    line-height: 1.6875rem; }
+
 /* ================================
         Buttons css
 ================================ */
@@ -337,7 +362,8 @@ template {
 header {
   display: flex;
   justify-content: space-between;
-  background-color: #FFF7FD; }
+  background-color: #FFF7FD;
+  padding: 19px 10px; }
 
 /* ================================
         Footer css
@@ -345,12 +371,49 @@ header {
 /* ================================
         Property css
 ================================ */
+#property {
+  background-color: #D65FCA; }
+  #property article {
+    color: #fff;
+    text-align: center; }
+
 /* ================================
        Value css
 ================================ */
+#value {
+  background-color: #FFF7FD;
+  text-align: center; }
+  #value span {
+    color: #D65FCA;
+    font-weight: 400;
+    font-style: italic; }
+  #value img {
+    padding: 67px 0; }
+
 /* ================================
         Disclaimer css
 ================================ */
+#disclaimer {
+  background-color: #D65FCA;
+  text-align: center; }
+  #disclaimer h1 {
+    color: #fff; }
+  #disclaimer article {
+    background-color: #FFF7FD;
+    padding: 10px;
+    line-height: 1.625rem;
+    letter-spacing: 0.083125rem; }
+  #disclaimer img {
+    margin-top: 43px; }
+
 /* ================================
         Conflict css
 ================================ */
+#conflict {
+  background-color: #FFF7FD; }
+  #conflict span {
+    font-style: italic; }
+  #conflict img {
+    padding: 80px 0; }
+  #conflict p {
+    letter-spacing: -0.01375rem; }

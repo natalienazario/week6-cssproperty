@@ -1,3 +1,16 @@
 /* ================================
        Value css
 ================================ */
+#value{
+  background-color: $lightpink;
+  text-align: center;
+
+  span{
+    color: $magenta;
+    font-weight: 400;
+    font-style: italic;
+  }
+  img{
+    padding: 67px 0;
+  }
+}

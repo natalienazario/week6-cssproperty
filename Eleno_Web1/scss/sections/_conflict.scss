@@ -1,3 +1,15 @@
 /* ================================
         Conflict css
 ================================ */
+#conflict{
+  background-color: $lightpink;
+  span{
+    font-style: italic;
+  }
+  img{
+    padding: 80px 0;
+  }
+  p{
+    letter-spacing: rem-calc(-0.22);
+  }
+}
