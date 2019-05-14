@@ -368,6 +368,12 @@ header {
 /* ================================
         Footer css
 ================================ */
+footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #D65FCA;
+  color: #fff; }
+
 /* ================================
         Property css
 ================================ */
@@ -376,6 +382,11 @@ header {
   #property article {
     color: #fff;
     text-align: center; }
+
+#parentheses {
+  font-size: 0.9375rem;
+  line-height: 1.3125rem;
+  padding: 0 32px; }
 
 /* ================================
        Value css
@@ -421,3 +432,5 @@ header {
     width: 100%; }
   #conflict p {
     letter-spacing: -0.01375rem; }
+  #conflict h1 {
+    padding: 0 20px; }
