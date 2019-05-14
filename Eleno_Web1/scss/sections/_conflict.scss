@@ -1,19 +1,23 @@
 /* ================================
         Conflict css
 ================================ */
-#conflict{
+#conflict {
   background-color: $lightpink;
-  span{
+
+  span {
     font-style: italic;
   }
-  img{
+
+  img {
     padding: 80px 0;
     width: 100%;
   }
-  p{
+
+  p {
     letter-spacing: rem-calc(-0.22);
   }
-  h1{
+
+  h1 {
     padding: 0 20px;
     line-height: rem-calc(42);
   }

@@ -337,7 +337,8 @@ template {
 ================================ */
 body {
   font-family: 'Open Sans', sans-serif; }
-  body h1, body p {
+  body h1,
+  body p {
     text-align: center;
     color: #4A4A4A; }
   body h1 {

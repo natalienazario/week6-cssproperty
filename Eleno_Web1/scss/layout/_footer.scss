@@ -1,14 +1,13 @@
 /* ================================
         Footer css
 ================================ */
-footer{
+footer {
   background-color: $magenta;
   color: $white;
   font-size: rem-calc(13);
-  
-  ul{
+
+  ul {
     display: flex;
     justify-content: space-between;
-
   }
 }

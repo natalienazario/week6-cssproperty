@@ -1,20 +1,20 @@
 /* ================================
         Base css
 ================================ */
-.content-grid{
+.content-grid {
   display: grid;
-  grid-template-columns:10px auto 10px;
+  grid-template-columns: 10px auto 10px;
   grid-template-areas: ". grid-content .";
-  .content-grid-item{
+
+  .content-grid-item {
     grid-area: grid-content;
   }
 }
 
-.section-content{
+.section-content {
   padding: 50px 0 27px;
-
 }
 
-.hero-content{
+.hero-content {
   padding: 71px 0 22px;
 }

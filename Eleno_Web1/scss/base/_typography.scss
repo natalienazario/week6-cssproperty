@@ -1,23 +1,29 @@
 /* ================================
         Typography css
 ================================ */
-body{
+body {
   font-family: 'Open Sans', sans-serif;
-  h1,p{
+
+  h1,
+  p {
     text-align: center;
     color: $graytext;
   }
-  h1{
+
+  h1 {
     font-weight: 700;
     font-size: rem-calc(31);
   }
-  p{
+
+  p {
     line-height: rem-calc(27);
     font-size: rem-calc(20);
   }
-  ul{
+
+  ul {
     padding: 0;
-    li{
+
+    li {
       list-style: none;
       line-height: rem-calc(27);
     }

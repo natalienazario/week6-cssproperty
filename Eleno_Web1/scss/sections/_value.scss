@@ -1,20 +1,21 @@
 /* ================================
        Value css
 ================================ */
-#value{
+#value {
   background-color: $lightpink;
   text-align: center;
 
-  article{
+  article {
     font-size: rem-calc(20);
   }
 
-  span{
+  span {
     color: $magenta;
     font-weight: 400;
     font-style: italic;
   }
-  img{
+
+  img {
     padding: 67px 0;
   }
 }
