@@ -343,9 +343,11 @@ body {
   body p {
     line-height: 1.6875rem;
     font-size: 1.25rem; }
-  body ul li {
-    list-style: none;
-    line-height: 1.6875rem; }
+  body ul {
+    padding: 0; }
+    body ul li {
+      list-style: none;
+      line-height: 1.6875rem; }
 
 /* ================================
         Buttons css
@@ -372,6 +374,9 @@ footer {
   background-color: #D65FCA;
   color: #fff;
   font-size: 0.8125rem; }
+  footer ul {
+    display: flex;
+    justify-content: space-between; }
 
 /* ================================
         Property css
@@ -381,7 +386,9 @@ footer {
   #property article {
     text-align: center; }
     #property article h1 {
-      color: #fff; }
+      color: #fff;
+      padding: 0 32px;
+      line-height: 2.625rem; }
     #property article p {
       color: #fff; }
     #property article h1 + p + p {
@@ -435,4 +442,19 @@ footer {
   #conflict p {
     letter-spacing: -0.01375rem; }
   #conflict h1 {
-    padding: 0 20px; }
+    padding: 0 20px;
+    line-height: 2.625rem; }
+
+/* ================================
+        Hero css
+================================ */
+#hero {
+  background-color: #D65FCA;
+  background-image: url("../img/property/box-hero.svg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 205px; }
+  #hero h1 {
+    color: #fff;
+    padding-top: 50px; }

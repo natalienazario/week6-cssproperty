@@ -16,10 +16,10 @@ body{
     font-size: rem-calc(20);
   }
   ul{
+    padding: 0;
     li{
       list-style: none;
       line-height: rem-calc(27);
-
     }
   }
 }

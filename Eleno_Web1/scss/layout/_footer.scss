@@ -5,4 +5,10 @@ footer{
   background-color: $magenta;
   color: $white;
   font-size: rem-calc(13);
+  
+  ul{
+    display: flex;
+    justify-content: space-between;
+
+  }
 }
