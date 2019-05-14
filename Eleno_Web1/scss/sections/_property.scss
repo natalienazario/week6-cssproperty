@@ -4,13 +4,18 @@
 #property{
   background-color: $magenta;
   article{
-    color: $white;
     text-align: center;
-
+    h1{
+      color: $white;
+    }
+    p{
+      color: $white;
+    }
+    h1+p+p{
+      margin-top: -20px;
+      font-size: rem-calc(15);
+      line-height: rem-calc(21);
+      padding: 0 32px;
+    }
   }
-}
-#parentheses{
-  font-size: rem-calc(15);
-  line-height: rem-calc(21);
-  padding: 0 32px;
 }

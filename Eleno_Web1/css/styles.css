@@ -369,8 +369,6 @@ header {
         Footer css
 ================================ */
 footer {
-  display: flex;
-  justify-content: space-between;
   background-color: #D65FCA;
   color: #fff;
   font-size: 0.8125rem; }
@@ -381,13 +379,16 @@ footer {
 #property {
   background-color: #D65FCA; }
   #property article {
-    color: #fff;
     text-align: center; }
-
-#parentheses {
-  font-size: 0.9375rem;
-  line-height: 1.3125rem;
-  padding: 0 32px; }
+    #property article h1 {
+      color: #fff; }
+    #property article p {
+      color: #fff; }
+    #property article h1 + p + p {
+      margin-top: -20px;
+      font-size: 0.9375rem;
+      line-height: 1.3125rem;
+      padding: 0 32px; }
 
 /* ================================
        Value css
