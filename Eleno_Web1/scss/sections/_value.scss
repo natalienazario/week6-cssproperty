@@ -5,6 +5,10 @@
   background-color: $lightpink;
   text-align: center;
 
+  article{
+    font-size: rem-calc(20);
+  }
+
   span{
     color: $magenta;
     font-weight: 400;

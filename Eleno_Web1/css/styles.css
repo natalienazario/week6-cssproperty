@@ -383,6 +383,8 @@ header {
 #value {
   background-color: #FFF7FD;
   text-align: center; }
+  #value article {
+    font-size: 1.25rem; }
   #value span {
     color: #D65FCA;
     font-weight: 400;
@@ -404,7 +406,8 @@ header {
     line-height: 1.625rem;
     letter-spacing: 0.083125rem; }
   #disclaimer img {
-    margin-top: 43px; }
+    margin-top: 43px;
+    padding-bottom: 47px; }
 
 /* ================================
         Conflict css
@@ -414,6 +417,7 @@ header {
   #conflict span {
     font-style: italic; }
   #conflict img {
-    padding: 80px 0; }
+    padding: 80px 0;
+    width: 100%; }
   #conflict p {
     letter-spacing: -0.01375rem; }
