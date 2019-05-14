@@ -372,7 +372,8 @@ footer {
   display: flex;
   justify-content: space-between;
   background-color: #D65FCA;
-  color: #fff; }
+  color: #fff;
+  font-size: 0.8125rem; }
 
 /* ================================
         Property css
