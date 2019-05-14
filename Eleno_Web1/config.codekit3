@@ -79,28 +79,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/property/box-hero.jpg": {
-		"ft": 16384,
-		"iS": 8841,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/property/box-hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/property/box-hero.png": {
-		"ft": 32768,
-		"iS": 3846,
-		"oA": 0,
-		"oAP": "/img/property/box-hero.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/img/property/box-hero.svg": {
 		"ft": 2097152,
 		"miP": 0,
